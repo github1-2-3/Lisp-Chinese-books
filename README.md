@@ -3,4 +3,4 @@
 ##### 《LISP语言》陈光喜，2005年. 本书以Allegro Common Lisp 3.02为环境进行讲解，共分十二章，既包含CLOS又增添实践环节，适合入门学习。
 ##### 《人工智能哲学》【英】玛格丽特·博登. 刘西瑞 王汉琦 译，2001年11月第1版。收录了AI发展史上具有里程碑式地位的15篇文章，其文章写作时间起于1950年，止于1990年。
 ##### 《ANSI Common Lisp》中文翻譯版 https://acl.readthedocs.io/en/latest/
-* [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)-Steve Losh
+* [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) - Steve Losh

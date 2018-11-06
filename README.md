@@ -4,3 +4,7 @@
 ##### 《人工智能哲学》【英】玛格丽特·博登. 刘西瑞 王汉琦 译，2001年11月第1版。收录了AI发展史上具有里程碑式地位的15篇文章，其文章写作时间起于1950年，止于1990年。
 ##### 《ANSI Common Lisp》中文翻譯版 https://acl.readthedocs.io/en/latest/
 * [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) - Steve Losh
+中文翻译的几篇经典博文：
+Lisp的本质(Slava Akhmechet:The Nature of Lisp.Monday, May 8, 2006) ：https://www.cnblogs.com/Leap-abead/articles/762180.html
+Lisp之根源(Paul Graham: The Roots of Lisp.May,2001) : https://www.cnblogs.com/Leap-abead/articles/762226.html
+跨越边界: Lisp 之美，编程语言的王道 （Bruce Tate，2007）: https://www.ibm.com/developerworks/cn/java/j-cb02067.html#author

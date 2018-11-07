@@ -8,3 +8,15 @@
 * Lisp的本质(Slava Akhmechet:The Nature of Lisp.Monday, May 8, 2006) ：https://www.cnblogs.com/Leap-abead/articles/762180.html
 * Lisp之根源(Paul Graham: The Roots of Lisp.May,2001) : https://www.cnblogs.com/Leap-abead/articles/762226.html
 * 跨越边界: Lisp 之美，编程语言的王道 （Bruce Tate，2007）: https://www.ibm.com/developerworks/cn/java/j-cb02067.html#author
+###### 经典著作：
+* Recursive Functions of Symbolic Expressions and Their Computation by Machine,Part I.Communicatios of the ACM 3:4,April 1960.You can download from http://jmc.stanford.edu/articles/recursive.html
+* Programming Languages:Application and Interpretation.Shriram Krishnamurthi Brown University.2003、2012.
+* Learning to Program in LISP.John R.Anderson,Robert Farrell and Ron Sauers.Carnegie-Mellon University.Cognitive Science 8,87-129(1984).
+* The Roots of Lisp.Paul Graham.Draft,January 18,2002.
+* Basic Lisp Techniques.David J.Cooper,franz.com,2003.
+* Successful Lisp:How to Understand and Use Common lisp.David B.Lamkins,bookfix.com,2004.
+* Logic Programming in Scheme.Nils M Holm,2007.
+* An Axiomatic Basis for Computer Programming.C.A.R.Hoare.
+* Computability and Complexity-from a programming perspective.Neils D.Jones,the MIT Press,1997. this book is not directly related to LISP,needless to say that it is Saitama.
+* The Original 'Lambda Papers' by Guy Steele and Gerald Sussman : http://library.readscheme.org/page1.html
+* The Rise of Worse is Better - Richard P. Gabriel : http://dreamsongs.com/RiseOfWorseIsBetter.html

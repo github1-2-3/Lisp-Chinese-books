@@ -4,6 +4,11 @@
 ##### 《人工智能哲学》【英】玛格丽特·博登. 刘西瑞 王汉琦 译，2001年11月第1版。收录了AI发展史上具有里程碑式地位的15篇文章，其文章写作时间起于1950年，止于1990年。
 ##### 《ANSI Common Lisp》中文翻譯版 https://acl.readthedocs.io/en/latest/
 * [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) - Steve Losh
+##### 中文播客有关LISP的节目：
+* Teahour.fm——http://teahour.fm/2014/03/17/interview-with-binghe.html 嘉宾：田春（冰河）.
+* 代码时间——http://codetimecn.com/episodes/lisp 嘉宾：韩祝鹏.
+* 代码时间——http://codetimecn.com/episodes/clojure 嘉宾：何婧誉（Loretta）
+* Loretta He：Clojure开发的心路历程——http://www.infoq.com/cn/interviews/interview-with-lorettahe-talk-clojure-develop
 ###### 中文翻译的几篇经典博文：
 * Lisp的本质(Slava Akhmechet:The Nature of Lisp.Monday, May 8, 2006) ：https://www.cnblogs.com/Leap-abead/articles/762180.html
 * Lisp之根源(Paul Graham: The Roots of Lisp.May,2001) : https://www.cnblogs.com/Leap-abead/articles/762226.html

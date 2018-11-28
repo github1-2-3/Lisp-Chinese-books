@@ -9,11 +9,13 @@
 * 代码时间——http://codetimecn.com/episodes/lisp 嘉宾：韩祝鹏.
 * 代码时间——http://codetimecn.com/episodes/clojure 嘉宾：何婧誉（Loretta）
 * Loretta He：Clojure开发的心路历程——http://www.infoq.com/cn/interviews/interview-with-lorettahe-talk-clojure-develop
-###### 中文翻译的几篇经典博文：
+##### 在线读物
+* [Practical Common Lisp](http://www.gigamonkeys.com/book/)
+##### 中文翻译的几篇经典博文：
 * Lisp的本质(Slava Akhmechet:The Nature of Lisp.Monday, May 8, 2006) ：https://www.cnblogs.com/Leap-abead/articles/762180.html
 * Lisp之根源(Paul Graham: The Roots of Lisp.May,2001) : https://www.cnblogs.com/Leap-abead/articles/762226.html
 * 跨越边界: Lisp 之美，编程语言的王道 （Bruce Tate，2007）: https://www.ibm.com/developerworks/cn/java/j-cb02067.html#author
-###### 经典著作：
+##### 经典著作：
 * Recursive Functions of Symbolic Expressions and Their Computation by Machine,Part I.Communicatios of the ACM 3:4,April 1960.You can download from http://jmc.stanford.edu/articles/recursive.html
 * Programming Languages:Application and Interpretation.Shriram Krishnamurthi Brown University.2003、2012.
 * Learning to Program in LISP.John R.Anderson,Robert Farrell and Ron Sauers.Carnegie-Mellon University.Cognitive Science 8,87-129(1984).

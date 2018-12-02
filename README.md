@@ -13,6 +13,7 @@
 ##### 在线读物（PDF）
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/)
 * [Common Lisp: A Gentle Introduction to Symbolic Computation - David S. Touretzky](http://www.cs.cmu.edu/~dst/LispBook/)
+* [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
 ##### 中文翻译的几篇经典博文：
 * Lisp的本质(Slava Akhmechet:The Nature of Lisp.Monday, May 8, 2006) ：https://www.cnblogs.com/Leap-abead/articles/762180.html
 * Lisp之根源(Paul Graham: The Roots of Lisp.May,2001) : https://www.cnblogs.com/Leap-abead/articles/762226.html

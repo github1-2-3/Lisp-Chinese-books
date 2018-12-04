@@ -5,6 +5,7 @@
 ###### 《ANSI Common Lisp》中文翻譯版 https://acl.readthedocs.io/en/latest/
 ###### 《Scheme 入门教程》https://deathking.github.io/yast-cn/
 * [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) - Steve Losh
+* [Learn Lisp Programming:Intro,Versions,and More](https://www.whoishostingthis.com/resources/lisp/)
 ##### 中文播客有关LISP的节目：
 * Teahour.fm——http://teahour.fm/2014/03/17/interview-with-binghe.html 嘉宾：田春（冰河）.
 * 代码时间——http://codetimecn.com/episodes/lisp 嘉宾：韩祝鹏.

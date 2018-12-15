@@ -17,6 +17,7 @@
 * [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
 * [Lisp journey](https://lisp-journey.gitlab.io/)
 * [European Lisp Symposium](https://european-lisp-symposium.org/)
+* [Learning Lisp for CMPT 310](http://www.cs.sfu.ca/CourseCentral/310/pwfong/Lisp/)
 ##### 中文翻译的几篇经典博文：
 * Lisp的本质(Slava Akhmechet:The Nature of Lisp.Monday, May 8, 2006) ：https://www.cnblogs.com/Leap-abead/articles/762180.html
 * Lisp之根源(Paul Graham: The Roots of Lisp.May,2001) : https://www.cnblogs.com/Leap-abead/articles/762226.html

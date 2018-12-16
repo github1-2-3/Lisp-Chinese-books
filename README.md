@@ -18,10 +18,11 @@
 * [Lisp journey](https://lisp-journey.gitlab.io/)
 * [European Lisp Symposium](https://european-lisp-symposium.org/)
 * [Learning Lisp for CMPT 310](http://www.cs.sfu.ca/CourseCentral/310/pwfong/Lisp/)
-##### 中文翻译的几篇经典博文：
+##### 经典博文：
 * Lisp的本质(Slava Akhmechet:The Nature of Lisp.Monday, May 8, 2006) ：https://www.cnblogs.com/Leap-abead/articles/762180.html
 * Lisp之根源(Paul Graham: The Roots of Lisp.May,2001) : https://www.cnblogs.com/Leap-abead/articles/762226.html
 * 跨越边界: Lisp 之美，编程语言的王道 （Bruce Tate，2007）: https://www.ibm.com/developerworks/cn/java/j-cb02067.html#author
+* Why I love Lisp: https://pupeno.com/2011/08/16/why-i-love-lisp/
 ##### 经典著作：
 * Recursive Functions of Symbolic Expressions and Their Computation by Machine,Part I.Communicatios of the ACM 3:4,April 1960.You can download from http://jmc.stanford.edu/articles/recursive.html
 * Programming Languages:Application and Interpretation.Shriram Krishnamurthi Brown University.2003、2012.

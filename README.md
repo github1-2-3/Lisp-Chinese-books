@@ -12,7 +12,7 @@
 * 代码时间——http://codetimecn.com/episodes/clojure 嘉宾：何婧誉（Loretta）
 * Loretta He：Clojure开发的心路历程——http://www.infoq.com/cn/interviews/interview-with-lorettahe-talk-clojure-develop
 ##### 视频：
-* Andy Balaam - Scheme Programming - https://www.bilibili.com/video/av36910308/ (油管搬运自此)
+* Andy Balaam - Scheme Programming - https://www.bilibili.com/video/av36910308/ (油管搬运)
 ##### 在线读物（PDF...）
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/)
 * [Common Lisp: A Gentle Introduction to Symbolic Computation - David S. Touretzky](http://www.cs.cmu.edu/~dst/LispBook/)

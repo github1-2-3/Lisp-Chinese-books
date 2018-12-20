@@ -14,6 +14,7 @@
 ##### 视频：
 * Andy Balaam - Scheme Programming - https://www.bilibili.com/video/av36910308/ (油管搬运)
 ##### 在线读物（PDF...）
+* [History of LISP](http://www.softwarepreservation.org/projects/LISP)
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/)
 * [Common Lisp: A Gentle Introduction to Symbolic Computation - David S. Touretzky](http://www.cs.cmu.edu/~dst/LispBook/)
 * [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)

@@ -17,6 +17,7 @@
 * [History of LISP](http://www.softwarepreservation.org/projects/LISP) - [Paul Mcjones](https://mcjones.org/),editor.
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/)
 * [Common Lisp: A Gentle Introduction to Symbolic Computation - David S. Touretzky](http://www.cs.cmu.edu/~dst/LispBook/)
+* [Common Lisp the Language, 2nd Edition](http://www-prod-gif.supelec.fr/docs/cltl/clm/clm.html) - Guy L. Steele Jr.
 * [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
 * [Lisp journey](https://lisp-journey.gitlab.io/)
 * [European Lisp Symposium](https://european-lisp-symposium.org/)

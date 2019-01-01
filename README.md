@@ -28,7 +28,8 @@
 * Lisp的本质(Slava Akhmechet:The Nature of Lisp.Monday, May 8, 2006) ：https://www.cnblogs.com/Leap-abead/articles/762180.html
 * Lisp之根源(Paul Graham: The Roots of Lisp.May,2001) : https://www.cnblogs.com/Leap-abead/articles/762226.html
 * 跨越边界: Lisp 之美，编程语言的王道 （Bruce Tate，2007）: https://www.ibm.com/developerworks/cn/java/j-cb02067.html#author
-* Why I love Lisp: https://pupeno.com/2011/08/16/why-i-love-lisp/
+* Why I love Lisp: https://pupeno.com/2011/08/16/why-i-love-lisp/ 
+* Why Lisp Failed: http://locklessinc.com/articles/why_lisp_failed/
 * This Old Lisp: http://thisoldlisp.com/talks/els-2018/ R. Matthew Emerson ( keynote talk from the 2018 European Lisp Symposium in Marbella, Spain )
 * The Lisp Curse: http://www.winestockwebdesign.com/Essays/Lisp_Curse.html
 ##### 经典著作：

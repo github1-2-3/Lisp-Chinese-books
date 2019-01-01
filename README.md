@@ -12,6 +12,7 @@
 * 代码时间——http://codetimecn.com/episodes/clojure 嘉宾：何婧誉（Loretta）
 * Loretta He：Clojure开发的心路历程——http://www.infoq.com/cn/interviews/interview-with-lorettahe-talk-clojure-develop
 ##### 视频：
+* Learning SICP 公开课翻译项目 - https://learningsicp.github.io/
 * Andy Balaam - Scheme Programming - https://www.bilibili.com/video/av36910308/ (油管搬运)
 ##### 在线读物（PDF...）
 * [History of LISP](http://www.softwarepreservation.org/projects/LISP) - [Paul Mcjones](https://mcjones.org/),editor.

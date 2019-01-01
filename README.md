@@ -29,6 +29,7 @@
 * 跨越边界: Lisp 之美，编程语言的王道 （Bruce Tate，2007）: https://www.ibm.com/developerworks/cn/java/j-cb02067.html#author
 * Why I love Lisp: https://pupeno.com/2011/08/16/why-i-love-lisp/
 * This Old Lisp: http://thisoldlisp.com/talks/els-2018/ R. Matthew Emerson ( keynote talk from the 2018 European Lisp Symposium in Marbella, Spain )
+* The Lisp Curse: http://www.winestockwebdesign.com/Essays/Lisp_Curse.html
 ##### 经典著作：
 * Recursive Functions of Symbolic Expressions and Their Computation by Machine,Part I.Communicatios of the ACM 3:4,April 1960.You can download from http://jmc.stanford.edu/articles/recursive.html
 * Programming Languages:Application and Interpretation.Shriram Krishnamurthi Brown University.2003、2012.

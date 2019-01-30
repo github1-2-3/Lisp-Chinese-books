@@ -33,6 +33,7 @@
 * Why Lisp Failed: http://locklessinc.com/articles/why_lisp_failed/
 * This Old Lisp: http://thisoldlisp.com/talks/els-2018/ R. Matthew Emerson ( keynote talk from the 2018 European Lisp Symposium in Marbella, Spain )
 * The Lisp Curse: http://www.winestockwebdesign.com/Essays/Lisp_Curse.html
+* The Clojure Philosophy: http://www.drdobbs.com/architecture-and-design/the-clojure-philosophy/240150710/
 ##### 经典著作：
 * Recursive Functions of Symbolic Expressions and Their Computation by Machine,Part I.Communicatios of the ACM 3:4,April 1960.You can download from http://jmc.stanford.edu/articles/recursive.html
 * Programming Languages:Application and Interpretation.Shriram Krishnamurthi Brown University.2003、2012.

@@ -17,6 +17,7 @@
 * Andy Balaam - Scheme Programming - https://www.bilibili.com/video/av36910308/ (油管搬运)
 * Guy Steele - Cool Ideas (Dan Friedman's 60th Birthday) - https://www.bilibili.com/video/av32496013/ (油管搬运)
 ##### 在线读物（PDF...）
+* [Guy Steele](https://www.researchgate.net/profile/Guy_Steele) 
 * [History of LISP](http://www.softwarepreservation.org/projects/LISP) - [Paul Mcjones](https://mcjones.org/),editor.
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/)
 * [Common Lisp: A Gentle Introduction to Symbolic Computation - David S. Touretzky](http://www.cs.cmu.edu/~dst/LispBook/)

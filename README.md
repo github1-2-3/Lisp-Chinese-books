@@ -42,7 +42,6 @@
 * The Clojure Philosophy: http://www.drdobbs.com/architecture-and-design/the-clojure-philosophy/240150710/
 * 7 Project ideas for learning Common Lisp: <https://www.darkchestnut.com/2016/starter-projects/>
 ##### 经典著作：
-* Recursive Functions of Symbolic Expressions and Their Computation by Machine,Part I.Communicatios of the ACM 3:4,April 1960.You can download from http://jmc.stanford.edu/articles/recursive.html
 * Programming Languages:Application and Interpretation.Shriram Krishnamurthi Brown University.2003、2012.
 * Learning to Program in LISP.John R.Anderson,Robert Farrell and Ron Sauers.Carnegie-Mellon University.Cognitive Science 8,87-129(1984).
 * The Roots of Lisp.Paul Graham.Draft,January 18,2002.
